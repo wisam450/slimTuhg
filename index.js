@@ -14,4 +14,4 @@ function softshadow(option){
     })
 }
 
-module.exports.softshadow = softshadow;
+module.exports.softshadow = softshadow;  
